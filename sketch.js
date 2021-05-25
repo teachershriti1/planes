@@ -126,13 +126,13 @@ function draw(){
     textSize(30)
     fill("black")
     text("I won", 100, 500)
-    gameState="End"
+   
   }
   if(a===2){
     textSize(30)
     fill("black")
     text("I won",1400 ,500)
-    gameState="End"
+  
   }
   
   
